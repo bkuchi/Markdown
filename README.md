@@ -1,8 +1,10 @@
 # Markdown
 
-![Markdown Experiment](http://image.prntscr.com/image/aa9bb749fef34c6f8141d2908e76530a.png)
+[Read Github Flavoured Markdown](https://help.github.com/categories/writing-on-github/)  
 
+[Editor](https://stackedit.io/editor#)  
 
+practive document is on google drive
 
 ```java
   public class Solution {
@@ -31,6 +33,7 @@
 	  <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
 	</div>
 ```
+[table generator online](http://www.tablesgenerator.com/markdown_tables#)
 
 | First Header | Second Header | Third Header | Fourth Header | Fifth Header |
 | ----- |----- | ----- |----- | -----: |
@@ -43,3 +46,7 @@
 
 [markdown githubgist](https://gist.github.com/planetoftheweb/ac67d97d2a655e35e0c3)  
 [markdown githubexample](https://github.com/planetoftheweb/markdown#more-stuff)
+
+[lightshot](http://app.prntscr.com/en/index.html)  
+with lightshot screenshots can be auto uploaded to public photo sharing drives you can refer to them using below tag
+![Markdown Experiment](http://image.prntscr.com/image/aa9bb749fef34c6f8141d2908e76530a.png)
